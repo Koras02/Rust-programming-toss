@@ -1,0 +1,1 @@
+C:\Users\wjdgh\OneDrive\바탕\ 화면\workspace\rust\rust_prgramming\variables\dataTypes\target\debug\dataTypes.exe: C:\Users\wjdgh\OneDrive\바탕\ 화면\workspace\rust\rust_prgramming\variables\dataTypes\src\main.rs
