@@ -1,0 +1,1 @@
+C:\Users\wjdgh\OneDrive\바탕\ 화면\workspace\rust\rust_prgramming\variables\variables\target\debug\variables.exe: C:\Users\wjdgh\OneDrive\바탕\ 화면\workspace\rust\rust_prgramming\variables\variables\src\main.rs
